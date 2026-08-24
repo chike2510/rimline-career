@@ -97,3 +97,20 @@
 - [x] Add difficulty, accessibility, and presentation settings.
 - [x] Persist the expanded systems in IndexedDB and verify offline reload.
 - [x] Save the release and commit it to GitHub.
+
+## Simulation Depth Wave
+
+- [ ] Persist Command Desk meters, decisions, and history in the canonical IndexedDB career state.
+- [ ] Add live box-score-linked shot profile and advanced analytics.
+- [ ] Add injuries, diagnoses, rehabilitation plans, setbacks, and return-to-play decisions.
+- [ ] Add relationships, mentorships, rivalries, locker-room chemistry, and narrative effects.
+- [ ] Add contract negotiation with salary, years, options, incentives, and role guarantees.
+- [ ] Add Player awards, award races, records, Hall of Fame, and timeline history.
+- [ ] Add Manager trades, salary matching, free agency, draft picks, and CPU transaction logic.
+- [ ] Add rookie class generation, scouting uncertainty, staff hiring, and staff specialties.
+- [ ] Add game-plan editor with offensive, defensive, pace, matchup, and rotation settings.
+- [ ] Add league evolution, expansion/relocation, rule changes, rivalries, and generational stars.
+- [ ] Add challenge scenarios with objectives, modifiers, rewards, and completion tracking.
+- [ ] Add localization-ready copy structure, color-blind palettes, reduced motion, and keyboard/controller shortcuts.
+- [ ] Verify major Player and Manager flows, offline reload, mobile layouts, type-check, and production build.
+- [ ] Save and commit the simulation-depth wave to GitHub.

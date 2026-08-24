@@ -30,6 +30,7 @@ export type CareerSave = {
   collegeState?: Record<string, unknown>;
   draftState?: Record<string, unknown>;
   proOffers?: Record<string, unknown>[];
+  depthState?: Record<string, unknown>;
 };
 
 function canUseIndexedDb() {
