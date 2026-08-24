@@ -8,3 +8,9 @@
 - [x] Add explicit Continue to Next Week progression from the box score.
 - [x] Preserve selected mode, created profile, weekly state, and box scores in local storage.
 - [x] Verify responsive mobile layouts, type-check, production build, and offline PWA behavior.
+- [ ] Add deterministic weekly event generation with Player and Manager event pools.
+- [ ] Add event decision screens with resource/stat consequences and event history.
+- [ ] Add season-end detection at Game 82 and an offseason progression screen.
+- [ ] Add offseason rewards, attribute/team progression, contract or philosophy carryover, and next-season reset.
+- [ ] Persist weekly events, offseason state, season number, and career history locally.
+- [ ] Verify weekly event and offseason flows on mobile, type-check, production build, and PWA behavior.
