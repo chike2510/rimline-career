@@ -82,3 +82,18 @@
 - [x] Add presentation-ready navigation and responsive UX for the expanded systems.
 - [x] Verify every major flow, offline behavior, mobile layouts, and production build.
 - [x] Save and commit the integrated release to GitHub.
+
+## Full Depth Expansion
+
+- [x] Add practice drills with risk/reward outcomes.
+- [x] Add shot profile and advanced analytics.
+- [x] Add coach trust and player personality traits.
+- [x] Add press conferences, social-media narratives, and team chemistry activities.
+- [x] Add agents, endorsements, and contract obligations.
+- [x] Add travel, fatigue, injury, and recovery effects.
+- [x] Add coach/system fit and franchise identity.
+- [x] Add dynamic records, milestones, retirement, and post-career paths.
+- [x] Add scenario editor and challenge configuration.
+- [x] Add difficulty, accessibility, and presentation settings.
+- [x] Persist the expanded systems in IndexedDB and verify offline reload.
+- [x] Save the release and commit it to GitHub.
