@@ -23,3 +23,15 @@
 - [x] Add explicit save/load controls and a recovery state when IndexedDB is unavailable.
 - [x] Verify reload, offline, migration, and corrupt-data recovery paths.
 - [x] Save and push the IndexedDB persistence release.
+
+## Full Feature Expansion
+
+- [ ] Expand the shared simulation model for playoffs, awards, progression, relationships, contracts, staff, tactics, league evolution, achievements, and challenges.
+- [ ] Add playoffs, postseason awards, legacy milestones, and challenge scenarios.
+- [ ] Add Player Mode skill tree, injuries, relationships, contract negotiation, lifestyle reputation, and career legacy.
+- [ ] Add Manager Mode rotations, trades, free agency, draft scouting, staff, tactical game plans, and evolving league teams.
+- [ ] Add expanded event variety with rarity, streaks, and cross-system consequences.
+- [ ] Add multiple save slots plus JSON export/import around IndexedDB.
+- [ ] Polish navigation and mobile UI for the expanded feature set.
+- [ ] Verify major flows, type-check, production build, and offline behavior.
+- [ ] Save the release and commit all finished files to GitHub.

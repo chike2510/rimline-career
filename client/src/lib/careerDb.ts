@@ -21,6 +21,10 @@ export type CareerSave = {
   lastBox: Record<string, unknown> | null;
   weeklyEvent: Record<string, unknown> | null;
   seasonSummary: Record<string, unknown> | null;
+  progression?: Record<string, unknown>;
+  managerExtras?: Record<string, unknown>;
+  playoffState?: Record<string, unknown>;
+  saveSlots?: Record<string, unknown>;
 };
 
 function canUseIndexedDb() {
