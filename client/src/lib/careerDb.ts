@@ -25,6 +25,10 @@ export type CareerSave = {
   managerExtras?: Record<string, unknown>;
   playoffState?: Record<string, unknown>;
   saveSlots?: Record<string, unknown>;
+  careerRoute?: string;
+  collegeState?: Record<string, unknown>;
+  draftState?: Record<string, unknown>;
+  proOffers?: Record<string, unknown>[];
 };
 
 function canUseIndexedDb() {

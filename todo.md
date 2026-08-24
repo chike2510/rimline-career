@@ -44,3 +44,15 @@
 - [x] Add real-data attribution and a clear unofficial/non-affiliation notice.
 - [x] Use text/initials or user-provided assets instead of shipping unlicensed team logos.
 - [x] Verify mobile rendering, offline persistence, type-check, production build, and GitHub commit.
+
+## NCAA and Draft Pipeline
+
+- [x] Add a new Player Route selection: College Route or Direct Pro Route.
+- [x] Add NCAA player profile fields, college team, college season, conference record, tournament, and draft eligibility state.
+- [x] Add College Mode weekly games, training, events, tournament progression, and declare-for-draft decision.
+- [x] Add draft combine, scouting projection, lottery/order assignment, and automatic NBA team selection for drafted players.
+- [x] Add direct-to-pro interest offers from 2–4 real NBA teams where the player chooses the signing club.
+- [x] Add undrafted/free-agent fallback if a player is not selected.
+- [x] Connect route, college, draft, assigned team, and signing offer data to Player Mode and IndexedDB saves.
+- [x] Add Manager Mode draft board and college prospect pool using clearly labeled fictional prospects unless licensed real NCAA data is supplied.
+- [x] Verify route-specific screens, real NBA team display, mobile layout, persistence, build, and GitHub commit.
