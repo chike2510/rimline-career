@@ -110,3 +110,29 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 .form-hint { margin-top:9px; color:rgba(224,231,242,.5); font-size:11px; text-align:center; }
 .primary-cta:disabled { opacity:.42; cursor:not-allowed; transform:none; }
 @media (max-width:560px) { .archetype-grid { grid-template-columns:1fr; } .archetype-option { min-height:112px; } .archetype-option > span:not(.archetype-top) { max-width:36ch; } }
+
+/* RIMLINE Tactical Courtbook: the radar turns archetype choice into an evidence read. */
+.archetype-analytics { display:grid; grid-template-columns:minmax(150px,.95fr) minmax(0,1.05fr); gap:12px; align-items:center; margin-top:16px; padding:14px 0; border-top:1px solid rgba(150,163,193,.16); border-bottom:1px solid rgba(150,163,193,.16); }
+.attribute-radar { min-width:0; }
+.radar-title { display:flex; justify-content:space-between; align-items:center; gap:8px; margin-bottom:5px; color:#ff8a32; font:700 10px/1 'Roboto Mono',monospace; letter-spacing:.12em; text-transform:uppercase; }
+.radar-title small { color:rgba(224,231,242,.45); font:500 9px/1 'Roboto Mono',monospace; letter-spacing:.08em; }
+.attribute-radar svg { display:block; width:100%; max-width:184px; height:auto; margin:0 auto; overflow:visible; }
+.radar-ring { fill:none; stroke:rgba(141,159,194,.19); stroke-width:1; }
+.radar-axis { stroke:rgba(141,159,194,.16); stroke-width:1; }
+.radar-shape { fill:rgba(255,117,20,.2); stroke:#ff7514; stroke-width:2; stroke-linejoin:round; }
+.radar-shape.teal { fill:rgba(53,209,182,.18); stroke:#35d1b6; }
+.radar-shape.gold { fill:rgba(237,191,86,.18); stroke:#edbf56; }
+.radar-shape.purple { fill:rgba(158,143,255,.18); stroke:#9e8fff; }
+.radar-dot { fill:#ff7514; stroke:#0d172a; stroke-width:2; }
+.radar-dot.teal { fill:#35d1b6; }
+.radar-dot.gold { fill:#edbf56; }
+.radar-dot.purple { fill:#9e8fff; }
+.radar-label { fill:rgba(226,233,245,.56); font:700 8px 'Roboto Mono',monospace; letter-spacing:.06em; }
+.stat-compare { min-width:0; }
+.stat-compare-row { display:grid; grid-template-columns:34px minmax(0,1fr) 24px; align-items:center; gap:7px; margin-top:9px; }
+.stat-compare-row > span { color:rgba(226,233,245,.62); font:700 9px/1 'Roboto Mono',monospace; letter-spacing:.08em; }
+.stat-compare-row > i { display:block; height:5px; overflow:hidden; border-radius:99px; background:rgba(141,159,194,.14); }
+.stat-compare-row > i b { display:block; height:100%; border-radius:inherit; background:#ff7514; }
+.stat-compare-row:nth-child(3) > i b, .stat-compare-row:nth-child(5) > i b { background:#35d1b6; }
+.stat-compare-row > strong { color:#f7f8fc; font:800 11px/1 'Roboto Mono',monospace; text-align:right; }
+@media (max-width:390px) { .archetype-analytics { grid-template-columns:1fr; } .attribute-radar svg { max-width:168px; } .stat-compare { padding-top:4px; } }
