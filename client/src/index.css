@@ -71,3 +71,16 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 .active-mode-banner { align-items: flex-start; }
 .active-mode-banner button { margin-left: auto; }
 @media (max-width: 520px) { .active-mode-banner { gap: 10px; } .active-mode-banner small { max-width: 190px; } }
+
+/* RIMLINE Tactical Courtbook: the pre-pro pipeline gets the same evidence-panel rhythm as the NBA career screens. */
+.route-grid .career-choice { min-height: 240px; }
+.college-shell .college-ledger { border-color: rgba(49, 207, 182, .5); }
+.college-shell .event-option.ready { border-color: rgba(49, 207, 182, .65); }
+.college-shell .event-option.disabled { opacity: .62; }
+.offer-stack { display: grid; gap: 12px; margin-top: 22px; }
+.offer-card { display: grid; grid-template-columns: 30px minmax(0, 1fr) 18px; align-items: center; text-align: left; }
+.offer-card > div { min-width: 0; display: grid; gap: 4px; }
+.offer-card strong { color: #f4f6fb; font: 800 17px/1.05 'Roboto Condensed', sans-serif; letter-spacing: .05em; text-transform: uppercase; }
+.offer-card small, .offer-card em { color: rgba(222,231,245,.66); font-size: 11px; line-height: 1.35; }
+.offer-card em { color: #f0b84f; font-style: normal; letter-spacing: .08em; text-transform: uppercase; }
+@media (max-width: 520px) { .route-grid .career-choice { min-height: 214px; } .offer-card strong { font-size: 15px; } }
