@@ -56,3 +56,11 @@
 - [x] Connect route, college, draft, assigned team, and signing offer data to Player Mode and IndexedDB saves.
 - [x] Add Manager Mode draft board and college prospect pool using clearly labeled fictional prospects unless licensed real NCAA data is supplied.
 - [x] Verify route-specific screens, real NBA team display, mobile layout, persistence, build, and GitHub commit.
+
+## Archetype and UX Refinement
+
+- [x] Expand Player Mode from three archetypes to a richer position-aware archetype catalog.
+- [x] Add archetype descriptions, strengths, tradeoffs, and starting-stat identities.
+- [x] Improve creation-screen selection feedback, preview copy, and validation.
+- [x] Refine mobile spacing, type hierarchy, choice layout, CTA treatment, and accessibility states.
+- [x] Verify the create-player screen at phone width, run checks/build, save the release, and push to GitHub.
