@@ -54,3 +54,7 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 .season-summary > .annotation-mark{display:inline-block!important;width:auto!important;min-width:0!important;height:auto!important;min-height:20px!important;overflow:visible!important;padding:5px 8px!important;}
 
 .ledger-label{display:inline-flex;align-items:center;align-self:flex-start;width:max-content;padding:5px 8px;border-radius:5px;background:var(--orange);color:#07101d;font:800 10px "DM Mono",monospace;letter-spacing:1px;line-height:1;}
+
+/* Persistence status: visible enough to build trust, compact enough for the mobile rail. */
+.save-indicator{display:inline-flex;align-items:center;min-height:24px;padding:0 7px;border:1px solid #2f425b;border-radius:4px;color:#91a0b3;font:700 8px "DM Mono",monospace;letter-spacing:.5px;white-space:nowrap}.save-indicator.saved{border-color:rgba(61,214,198,.45);color:var(--teal)}.save-indicator.fallback{border-color:rgba(255,106,0,.65);color:var(--orange)}.save-indicator.loading{color:#aeb8c7}.top-actions .icon-button{width:30px;height:30px}
+@media (max-width:520px){.save-indicator{display:none}.top-actions{gap:5px}.top-actions .icon-button{width:28px;height:28px}}

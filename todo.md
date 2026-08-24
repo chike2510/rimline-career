@@ -14,3 +14,12 @@
 - [ ] Add offseason rewards, attribute/team progression, contract or philosophy carryover, and next-season reset.
 - [ ] Persist weekly events, offseason state, season number, and career history locally.
 - [ ] Verify weekly event and offseason flows on mobile, type-check, production build, and PWA behavior.
+
+## IndexedDB Persistence Release
+
+- [x] Add an IndexedDB career-file schema with versioning and atomic writes.
+- [x] Migrate existing localStorage career data into IndexedDB without losing progress.
+- [x] Replace state persistence with debounced automatic IndexedDB saves.
+- [x] Add explicit save/load controls and a recovery state when IndexedDB is unavailable.
+- [x] Verify reload, offline, migration, and corrupt-data recovery paths.
+- [x] Save and push the IndexedDB persistence release.
