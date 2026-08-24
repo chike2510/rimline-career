@@ -65,3 +65,9 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 
 /* Postseason layer: the season needs a visible climax before the offseason. */
 .playoff-main{max-width:760px;padding-top:34px}.playoff-main h1{margin:18px 0 10px;font:800 clamp(31px,8vw,54px)/.92 monospace;letter-spacing:-2px;text-transform:uppercase}.playoff-main>p{max-width:590px;color:#c2cad5;font-size:15px;line-height:1.55}.bracket-card{display:flex;gap:14px;align-items:center;margin:28px 0 20px;padding:18px;border:1px solid #5e4b30;border-radius:13px;background:linear-gradient(135deg,rgba(102,66,33,.31),rgba(16,26,43,.93))}.bracket-card>div{display:flex;flex-direction:column;gap:6px}.bracket-card small{color:var(--orange);font:700 10px "DM Mono",monospace;letter-spacing:1px}.bracket-card strong{font:800 16px monospace}.bracket-card em{color:var(--gold);font-style:normal;padding:0 6px}.bracket-card p{margin:0;color:#9aa8b9;font:10px "DM Mono",monospace}.playoff-shell.manager .bracket-card{border-color:#2f6b70}.playoff-shell.manager .bracket-card small{color:var(--teal)}
+
+/* RIMLINE Tactical Courtbook: real-data attribution stays compact, legible, and secondary to the active career mode. */
+.active-mode-banner small { display: block; margin-top: 4px; color: rgba(222, 231, 245, .55); font: 600 9px/1.2 'Roboto Mono', monospace; letter-spacing: .12em; text-transform: uppercase; }
+.active-mode-banner { align-items: flex-start; }
+.active-mode-banner button { margin-left: auto; }
+@media (max-width: 520px) { .active-mode-banner { gap: 10px; } .active-mode-banner small { max-width: 190px; } }

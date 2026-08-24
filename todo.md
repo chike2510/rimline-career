@@ -35,3 +35,12 @@
 - [ ] Polish navigation and mobile UI for the expanded feature set.
 - [ ] Verify major flows, type-check, production build, and offline behavior.
 - [ ] Save the release and commit all finished files to GitHub.
+
+## Real NBA Data Release
+
+- [x] Research and record authoritative current NBA team and player sources.
+- [x] Replace fictional teams with the 30 real NBA franchises and conference/division metadata.
+- [x] Replace fictional player names in rosters, box scores, contracts, events, and Manager Mode.
+- [x] Add real-data attribution and a clear unofficial/non-affiliation notice.
+- [x] Use text/initials or user-provided assets instead of shipping unlicensed team logos.
+- [x] Verify mobile rendering, offline persistence, type-check, production build, and GitHub commit.
