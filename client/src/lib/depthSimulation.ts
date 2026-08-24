@@ -28,6 +28,8 @@ export type DepthAction =
   | "challenge-underdog"
   | "challenge-cap"
   | "challenge-rookie"
+  | "challenge-clutch"
+  | "challenge-identity"
   | "toggle-colorblind"
   | "toggle-motion"
   | "set-large-type"
@@ -54,7 +56,7 @@ export type DepthState = {
   staff: { name: string; role: string; level: number; specialty: string }[];
   tactics: { system: "Balanced" | "Run & Gun" | "Lockdown"; pace: number; defense: number; rotationSize: number };
   awards: { name: string; status: string; progress: number }[];
-  challenges: { name: string; objective: string; progress: number; reward: string; active: boolean }[];
+  challenges: { name: string; objective: string; progress: number; reward: string; active: boolean; mode?: "player" | "manager" | "both" }[];
   league: { expansionWatch: number; rivalryHeat: number; ruleChange: string; timeline: string[] };
   history: string[];
   lastAction: string;
@@ -85,9 +87,11 @@ export const defaultDepthState: DepthState = {
     { name: "Defensive Team", status: "Trending up", progress: 54 },
   ],
   challenges: [
-    { name: "Underdog Run", objective: "Win 10 games against higher-rated teams", progress: 4, reward: "+10 legacy", active: true },
-    { name: "Cap Discipline", objective: "Finish a season under the cap", progress: 42, reward: "+1 staff level", active: false },
-    { name: "Late-Round Find", objective: "Develop a rookie by 8 overall", progress: 3, reward: "Scout network", active: false },
+    { name: "Underdog Run", objective: "Win 10 games against higher-rated teams", progress: 4, reward: "+10 legacy", active: true, mode: "player" },
+    { name: "Clutch Ledger", objective: "Reach 12 clutch impact points", progress: 5, reward: "+6 clutch net", active: false, mode: "player" },
+    { name: "Cap Discipline", objective: "Finish a season under the cap", progress: 42, reward: "+1 staff level", active: false, mode: "manager" },
+    { name: "Late-Round Find", objective: "Develop a rookie by 8 overall", progress: 3, reward: "Scout network", active: false, mode: "manager" },
+    { name: "Identity First", objective: "Complete 6 system-aligned decisions", progress: 2, reward: "+8 franchise legacy", active: false, mode: "manager" },
   ],
   league: { expansionWatch: 38, rivalryHeat: 66, ruleChange: "Transition take foul review", timeline: ["Season 1: Celtics identity established", "Season 2: Expansion vote pending", "Season 3: Rivalry heat rising"] },
   history: ["Career file opened", "First Rotation Minutes"],
@@ -95,6 +99,28 @@ export const defaultDepthState: DepthState = {
 };
 
 const clamp = (value: number, min = 0, max = 99) => Math.max(min, Math.min(max, value));
+
+export function normalizeDepthState(value: unknown): DepthState {
+  const candidate = (value && typeof value === "object" ? value : {}) as Partial<DepthState>;
+  const incomingChallenges = Array.isArray(candidate.challenges) ? candidate.challenges : [];
+  return {
+    ...defaultDepthState,
+    ...candidate,
+    shotProfile: { ...defaultDepthState.shotProfile, ...(candidate.shotProfile || {}) },
+    injury: { ...defaultDepthState.injury, ...(candidate.injury || {}) },
+    relationships: { ...defaultDepthState.relationships, ...(candidate.relationships || {}) },
+    contract: { ...defaultDepthState.contract, ...(candidate.contract || {}) },
+    transactions: { ...defaultDepthState.transactions, ...(candidate.transactions || {}) },
+    tactics: { ...defaultDepthState.tactics, ...(candidate.tactics || {}) },
+    league: { ...defaultDepthState.league, ...(candidate.league || {}), timeline: Array.isArray(candidate.league?.timeline) ? candidate.league.timeline : defaultDepthState.league.timeline },
+    rookieClass: Array.isArray(candidate.rookieClass) ? candidate.rookieClass : defaultDepthState.rookieClass,
+    staff: Array.isArray(candidate.staff) ? candidate.staff : defaultDepthState.staff,
+    awards: Array.isArray(candidate.awards) ? candidate.awards : defaultDepthState.awards,
+    challenges: defaultDepthState.challenges.map((base) => ({ ...base, ...(incomingChallenges.find((item) => item && typeof item === "object" && "name" in item && item.name === base.name) || {}) })),
+    history: Array.isArray(candidate.history) ? candidate.history : defaultDepthState.history,
+  };
+}
+
 const log = (state: DepthState, message: string): DepthState => ({ ...state, lastAction: message, history: [...state.history.slice(-11), message] });
 
 export function applyDepthAction(state: DepthState, action: DepthAction): DepthState {
@@ -122,9 +148,11 @@ export function applyDepthAction(state: DepthState, action: DepthAction): DepthS
     case "set-balanced": next.tactics = { ...next.tactics, system: "Balanced", pace: 71, defense: 78 }; return log(next, "Balanced system selected: stable variance across the rotation.");
     case "set-run-gun": next.tactics = { ...next.tactics, system: "Run & Gun", pace: 88, defense: 68 }; next.fatigue = clamp(next.fatigue + 3); return log(next, "Run & Gun selected: pace rises, recovery becomes more important.");
     case "set-lockdown": next.tactics = { ...next.tactics, system: "Lockdown", pace: 62, defense: 87 }; next.trust = clamp(next.trust + 2); return log(next, "Lockdown selected: defensive identity is now the organizational brief.");
-    case "challenge-underdog": next.challenges = next.challenges.map((item) => item.name === "Underdog Run" ? { ...item, active: true } : item); return log(next, "Underdog Run activated: higher-rated opponents now carry bonus legacy.");
-    case "challenge-cap": next.challenges = next.challenges.map((item) => item.name === "Cap Discipline" ? { ...item, active: true } : item); return log(next, "Cap Discipline activated: contract decisions now affect the challenge track.");
-    case "challenge-rookie": next.challenges = next.challenges.map((item) => item.name === "Late-Round Find" ? { ...item, active: true } : item); return log(next, "Late-Round Find activated: rookie development is now a career objective.");
+    case "challenge-underdog": next.challenges = next.challenges.map((item) => item.name === "Underdog Run" ? { ...item, active: !item.active } : item); return log(next, `Underdog Run ${next.challenges.find((item) => item.name === "Underdog Run")?.active ? "activated" : "paused"}: higher-rated opponents carry bonus legacy.`);
+    case "challenge-clutch": next.challenges = next.challenges.map((item) => item.name === "Clutch Ledger" ? { ...item, active: !item.active } : item); return log(next, `Clutch Ledger ${next.challenges.find((item) => item.name === "Clutch Ledger")?.active ? "activated" : "paused"}: closing-time impact is now tracked.`);
+    case "challenge-cap": next.challenges = next.challenges.map((item) => item.name === "Cap Discipline" ? { ...item, active: !item.active } : item); return log(next, `Cap Discipline ${next.challenges.find((item) => item.name === "Cap Discipline")?.active ? "activated" : "paused"}: contract decisions affect the challenge track.`);
+    case "challenge-rookie": next.challenges = next.challenges.map((item) => item.name === "Late-Round Find" ? { ...item, active: !item.active } : item); return log(next, `Late-Round Find ${next.challenges.find((item) => item.name === "Late-Round Find")?.active ? "activated" : "paused"}: rookie development is now a career objective.`);
+    case "challenge-identity": next.challenges = next.challenges.map((item) => item.name === "Identity First" ? { ...item, active: !item.active } : item); return log(next, `Identity First ${next.challenges.find((item) => item.name === "Identity First")?.active ? "activated" : "paused"}: system-aligned decisions now count.`);
     case "toggle-colorblind": next.colorBlind = !next.colorBlind; return log(next, `Color-blind palette ${next.colorBlind ? "enabled" : "disabled"}.`);
     case "toggle-motion": next.reducedMotion = !next.reducedMotion; return log(next, `Reduced motion ${next.reducedMotion ? "enabled" : "disabled"}.`);
     case "set-large-type": next.largeType = !next.largeType; return log(next, `Large type ${next.largeType ? "enabled" : "disabled"}.`);
