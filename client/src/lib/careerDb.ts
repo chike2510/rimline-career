@@ -31,6 +31,9 @@ export type CareerSave = {
   draftState?: Record<string, unknown>;
   proOffers?: Record<string, unknown>[];
   depthState?: Record<string, unknown>;
+  dailyMissions?: Record<string, unknown>[];
+  gemWallet?: number;
+  seasonRecap?: Record<string, unknown>;
 };
 
 function canUseIndexedDb() {

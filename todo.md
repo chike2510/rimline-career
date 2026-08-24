@@ -114,3 +114,2076 @@
 - [ ] Add localization-ready copy structure, color-blind palettes, reduced motion, and keyboard/controller shortcuts.
 - [ ] Verify major Player and Manager flows, offline reload, mobile layouts, type-check, and production build.
 - [ ] Save and commit the simulation-depth wave to GitHub.
+
+## Screenshot-Inspired Feature Wave
+
+- [ ] Add a season recap and awards screen with MVP, top honors, All-League, All-Defense, and league leaders.
+- [ ] Add persistent daily missions with progress, gem rewards, completion states, and daily refresh messaging.
+- [ ] Add a Life wallet header and offline-safe gem store with retry and purchase feedback.
+- [ ] Integrate recap, missions, and Life screens into Player navigation and career progression.
+- [ ] Verify screenshot-inspired mobile hierarchy, accessibility, type-check, production build, and offline persistence.
+- [ ] Save the screenshot-inspired feature-wave checkpoint.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, condensed uppercase headings, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep store failure states local and honest: show offline/retry behavior rather than pretending to complete a remote purchase.
+
+## Style Decisions
+
+- Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
+- Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
+- Keep
