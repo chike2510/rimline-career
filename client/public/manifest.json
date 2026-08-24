@@ -1,0 +1,14 @@
+{
+  "name": "RIMLINE Career",
+  "short_name": "RIMLINE",
+  "description": "Offline-first basketball career simulation with Player and Manager modes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08101e",
+  "theme_color": "#08101e",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/manus-storage/rimline-mark_489959e3.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/manus-storage/rimline-mark_489959e3.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
