@@ -64,3 +64,11 @@
 - [x] Improve creation-screen selection feedback, preview copy, and validation.
 - [x] Refine mobile spacing, type hierarchy, choice layout, CTA treatment, and accessibility states.
 - [x] Verify the create-player screen at phone width, run checks/build, save the release, and push to GitHub.
+
+## Archetype Attribute Radar
+
+- [x] Define six readable attribute dimensions and per-archetype values.
+- [x] Add a live SVG radar chart that updates with the selected archetype.
+- [x] Add numeric stat labels and an explanatory legend for the chart.
+- [x] Keep the chart accessible with text alternatives and responsive mobile sizing.
+- [x] Verify the screen, run checks/build, save the release, and push to GitHub.
