@@ -2187,3 +2187,50 @@
 - Treat the supplied screenshots as the visual ground truth for this feature wave: portrait-first composition, deep navy surfaces, pale gold section rules, electric cyan/green accents, and tightly stacked evidence panels.
 - Use real in-game career state for recap values and mission progress; never invent user-generated reviews or testimonials.
 - Keep
+
+## Full Roadmap Expansion
+
+### Shared Simulation
+- [ ] Add explicit deterministic simulation seeds and replay metadata.
+- [ ] Add transparent modifier ledgers for fatigue, injuries, trust, tactics, challenges, and chemistry.
+- [ ] Add performance grades, form/momentum, shot profile, defensive assignment, and matchup outputs.
+- [ ] Add career record book, milestone tracking, award race state, and reward ledger.
+
+### Player Mode
+- [ ] Add career calendar and weekly agenda planner.
+- [ ] Add post-game decision window and film-room review.
+- [ ] Add potential, aging, attribute caps, development plans, badges/perks, and mentor effects.
+- [ ] Add contract negotiation, incentives, options, agent trust, trade request, and destination preferences.
+- [ ] Add relationship network actions, rivalry history, family/support, media interviews, brand identity, and financial planning.
+
+### Manager Mode
+- [ ] Add full roster dashboard, rotation planner, closing lineups, and matchup adjustments.
+- [ ] Add staff assignments, staff contracts, coaching tree, team culture, ownership expectations, and practice intensity.
+- [ ] Add trade builder with salary matching, roster legality, CPU proposals, protected picks, swaps, and negotiation memory.
+- [ ] Add waiver, buyout, sign-and-trade, multi-team transaction, and deadline workflows.
+
+### League, NCAA, and Draft
+- [ ] Add conference standings, play-in, playoff bracket, series logic, league leaders, and awards races.
+- [ ] Add league transactions, injuries, schedule density, CPU team identities, and record book.
+- [ ] Add college dashboard, tournament path, transfer decision, combine, interviews, draft board, and undrafted routes.
+- [ ] Add procedural rookie classes, international prospects, draft lottery, pick protections, and draft history.
+
+### Meta, Life, and Rewards
+- [ ] Connect active challenge modifiers directly to simulation outcomes.
+- [ ] Add daily/weekly/season challenge packs, streaks, achievement cabinet, and Iron Career mode.
+- [ ] Add Life relationship actions, lifestyle budget, recovery choices, social feed, rivalry system, and community events.
+- [ ] Add gem ledger, legacy currency, cosmetic and information unlocks, reward history, no-pressure economy mode, and collection book.
+
+### Offline, Accessibility, and Presentation
+- [ ] Add save snapshots, repair utility, conflict resolver, storage usage panel, and version migration tests.
+- [ ] Add complete keyboard navigation, screen-reader summaries, font-size presets, color-blind semantics, and data-density modes.
+- [ ] Add localization structure, RTL readiness, and optional haptic hooks.
+- [ ] Add award ceremony panels, court diagrams, form charts, award cabinet, season reports, and shareable career cards.
+- [ ] Add determinism tests, simulation modifier tests, save/load regression coverage, and a mobile viewport matrix.
+
+### Release Gates
+- [ ] Verify each release wave with type-check and production build.
+- [ ] Verify offline save/load, refresh recovery, import/export, and multi-slot behavior.
+- [ ] Verify Player and Manager flows remain structurally separate.
+- [ ] Capture representative mobile screenshots after the expansion.
+- [ ] Save a final expanded-release checkpoint.

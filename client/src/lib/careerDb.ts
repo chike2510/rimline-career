@@ -34,6 +34,7 @@ export type CareerSave = {
   dailyMissions?: Record<string, unknown>[];
   gemWallet?: number;
   seasonRecap?: Record<string, unknown>;
+  expansionState?: Record<string, unknown>;
 };
 
 function canUseIndexedDb() {
