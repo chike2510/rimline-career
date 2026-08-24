@@ -136,3 +136,13 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 .stat-compare-row:nth-child(3) > i b, .stat-compare-row:nth-child(5) > i b { background:#35d1b6; }
 .stat-compare-row > strong { color:#f7f8fc; font:800 11px/1 'Roboto Mono',monospace; text-align:right; }
 @media (max-width:390px) { .archetype-analytics { grid-template-columns:1fr; } .attribute-radar svg { max-width:168px; } .stat-compare { padding-top:4px; } }
+
+/* Tactical Courtbook — save files: compact, readable, and deliberately operational on narrow screens. */
+.save-slots-screen { gap: 16px; }
+.save-slot-create { display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: stretch; }
+.save-slot-create input { min-width: 0; border: 1px solid rgba(255,255,255,.12); background: rgba(5,13,28,.72); color: var(--foreground); padding: 13px 14px; font: 700 12px/1 "Space Mono", monospace; letter-spacing: .08em; text-transform: uppercase; }
+.save-slot-create .primary-cta { margin: 0; min-height: 48px; padding-inline: 16px; white-space: nowrap; }
+.save-slot-row { position: relative; padding-right: 82px; }
+.save-slot-row button { position: absolute; right: 12px; top: 50%; transform: translateY(-50%); display: inline-flex; gap: 5px; align-items: center; border: 1px solid rgba(255,116,0,.65); background: rgba(255,116,0,.10); color: #ff8a2a; padding: 8px 10px; font: 800 10px/1 "Space Mono", monospace; letter-spacing: .06em; }
+.save-slot-row button:active { transform: translateY(-50%) scale(.97); }
+@media (max-width: 520px) { .save-slot-create { grid-template-columns: 1fr; } .save-slot-create .primary-cta { width: 100%; } .save-slot-row { padding-right: 12px; padding-bottom: 52px; } .save-slot-row button { right: auto; left: 12px; top: auto; bottom: 12px; transform: none; } .save-slot-row button:active { transform: scale(.97); } }

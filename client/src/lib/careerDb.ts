@@ -4,6 +4,7 @@ export const CAREER_DB_NAME = "rimline-career-db";
 export const CAREER_DB_VERSION = 1;
 export const CAREER_STORE = "career-files";
 export const CAREER_KEY = "active-career";
+const SLOT_PREFIX = "career-slot:";
 
 export type CareerSave = {
   schemaVersion: number;
@@ -71,6 +72,14 @@ export async function saveCareerSave(save: CareerSave): Promise<void> {
     transaction.onabort = () => reject(transaction.error || new Error("The RIMLINE career save was aborted."));
   }).finally(() => db.close());
 }
+
+export async function saveCareerSlot(slotId: string, save: CareerSave): Promise<void> { const db = await openCareerDb(); await new Promise<void>((resolve, reject) => { const transaction = db.transaction(CAREER_STORE, "readwrite"); transaction.objectStore(CAREER_STORE).put({ ...save, slotId }, `${SLOT_PREFIX}${slotId}`); transaction.oncomplete = () => resolve(); transaction.onerror = () => reject(transaction.error || new Error("Could not save the RIMLINE career slot.")); transaction.onabort = () => reject(transaction.error || new Error("The RIMLINE career slot was aborted.")); }).finally(() => db.close()); }
+
+export async function listCareerSlots(): Promise<(CareerSave & { slotId: string })[]> { const db = await openCareerDb(); return new Promise((resolve, reject) => { const transaction = db.transaction(CAREER_STORE, "readonly"); const request = transaction.objectStore(CAREER_STORE).getAll(); request.onsuccess = () => resolve((request.result as (CareerSave & { slotId?: string })[]).filter((item) => Boolean(item.slotId)).sort((a, b) => b.updatedAt.localeCompare(a.updatedAt)) as (CareerSave & { slotId: string })[]); request.onerror = () => reject(request.error || new Error("Could not list RIMLINE career slots.")); transaction.oncomplete = () => db.close(); }); }
+
+export async function getCareerSlot(slotId: string): Promise<CareerSave | null> { const db = await openCareerDb(); return new Promise((resolve, reject) => { const transaction = db.transaction(CAREER_STORE, "readonly"); const request = transaction.objectStore(CAREER_STORE).get(`${SLOT_PREFIX}${slotId}`); request.onsuccess = () => resolve((request.result as CareerSave | undefined) || null); request.onerror = () => reject(request.error || new Error("Could not load the RIMLINE career slot.")); transaction.oncomplete = () => db.close(); }); }
+
+export async function deleteCareerSlot(slotId: string): Promise<void> { const db = await openCareerDb(); await new Promise<void>((resolve, reject) => { const transaction = db.transaction(CAREER_STORE, "readwrite"); transaction.objectStore(CAREER_STORE).delete(`${SLOT_PREFIX}${slotId}`); transaction.oncomplete = () => resolve(); transaction.onerror = () => reject(transaction.error || new Error("Could not delete the RIMLINE career slot.")); }).finally(() => db.close()); }
 
 export async function clearCareerSave(): Promise<void> {
   const db = await openCareerDb();

@@ -72,3 +72,13 @@
 - [x] Add numeric stat labels and an explanatory legend for the chart.
 - [x] Keep the chart accessible with text alternatives and responsive mobile sizing.
 - [x] Verify the screen, run checks/build, save the release, and push to GitHub.
+
+## Integrated Full Simulation Release
+
+- [x] Build shared full-season, NCAA, draft, playoffs, awards, legacy, and evolving-league simulation rules.
+- [x] Add complete Player Mode schedule, injuries, contracts, relationships, lifestyle, legacy, and achievement depth.
+- [x] Add complete Manager Mode rotations, transactions, staff, scouting, tactics, draft, and AI team movement.
+- [x] Add multiple named IndexedDB save slots and robust import/export validation.
+- [x] Add presentation-ready navigation and responsive UX for the expanded systems.
+- [x] Verify every major flow, offline behavior, mobile layouts, and production build.
+- [x] Save and commit the integrated release to GitHub.

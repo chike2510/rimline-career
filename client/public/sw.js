@@ -1,5 +1,5 @@
 /* RIMLINE offline-first service worker: cache the app shell and serve cached content when disconnected. */
-const CACHE_NAME = "rimline-shell-v1";
+const CACHE_NAME = "rimline-shell-v2";
 const APP_SHELL = ["/", "/manifest.json"];
 
 self.addEventListener("install", (event) => {
