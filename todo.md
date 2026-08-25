@@ -1,5 +1,11 @@
 # RIMLINE Flow Revision Checklist
 
+## RIMLINE NBA data and tabbed box score
+- [x] Expand the real NBA team and player data used by schedules, opponents, standings, and box scores.
+- [x] Replace the post-game stacked team tables with a Home/Away tab switch that exposes each team’s player stats on mobile.
+- [x] Verify the tab interaction, stat values, next-week continuation, TypeScript check, production build, and GitHub synchronization.
+
+
 - [x] Add a first-launch/new-career mode chooser with Player Mode and Manager Mode as mutually exclusive career starts.
 - [x] Add Create Player setup screen with name, position, archetype, and confirmation.
 - [x] Add Create Manager setup screen with manager name, philosophy, and confirmation.
