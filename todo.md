@@ -2234,3 +2234,14 @@
 - [ ] Verify Player and Manager flows remain structurally separate.
 - [ ] Capture representative mobile screenshots after the expansion.
 - [ ] Save a final expanded-release checkpoint.
+
+## Next-Step Release Wave
+
+- [ ] Add full best-of-seven playoff series state with per-game results, round advancement, elimination, and championship outcomes.
+- [ ] Add deterministic bracket and opponent generation for conference finals and championship rounds.
+- [ ] Add CPU-generated Manager trade proposals with salary matching, roster legality, fit score, and accept/decline flow.
+- [ ] Persist trade proposal inbox, negotiation history, accepted transactions, and declined proposal memory.
+- [ ] Add procedural rookie class generation per season with seed, archetypes, schools, potential, and scouting confidence.
+- [ ] Add draft lottery odds, draw results, draft order, draft board, selections, and draft history.
+- [ ] Integrate playoff, trade, and draft routes into separate Player and Manager navigation.
+- [ ] Verify offline persistence, determinism, accessibility, mobile layouts, type-check, build, and final checkpoint.

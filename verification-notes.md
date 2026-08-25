@@ -29,3 +29,13 @@ The reference-inspired mobile hierarchy remains intact: compact branded header, 
 - Added live online/offline shell status while preserving local IndexedDB/fallback save behavior.
 - `pnpm check` passed.
 - `pnpm build` passed; Vite emitted only the existing bundle-size advisory.
+
+## Next-Step Release Wave
+
+- Added deterministic best-of-seven playoff state, round labels, per-game resolution, round advancement, elimination, championship completion, history, and reset controls to Expansion Desk.
+- Added CPU trade-proposal generation using salary, cap-room, fit, and deterministic seed inputs, with accept/decline states and local decision feedback.
+- Added procedural rookie-class generation, seasonal refresh, deterministic lottery ordering, lottery history, and Manager scouting controls.
+- Added mobile Tactical Courtbook styling for playoff scoreboards, bracket history, proposal inbox, and proposal actions.
+- `pnpm check` passes.
+- `pnpm build` passes with the existing large-chunk advisory.
+- Mobile screenshots captured successfully for Player and Manager Expansion routes; concurrent query captures can retain the existing saved Player career, so direct route behavior remains the reliable mode-switch check.
