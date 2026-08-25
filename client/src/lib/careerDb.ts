@@ -97,6 +97,7 @@ export async function clearCareerSave(): Promise<void> {
     transaction.oncomplete = () => resolve();
     transaction.onerror = () => reject(transaction.error || new Error("Could not clear the RIMLINE career file."));
   }).finally(() => db.close());
+  try { localStorage.removeItem("rimline-career-fallback"); } catch { /* Recovery storage may be disabled. */ }
 }
 
 function legacyJson<T>(key: string, fallback: T): T {

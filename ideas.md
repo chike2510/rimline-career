@@ -67,3 +67,8 @@ Use the RIMLINE mark: a rising basketball passing through a rim arc, with an int
 - Keep all team names and logos fictional; do not imitate real NBA marks.
 - Manager Mode belongs in the same app shell as Player Mode, but should shift the primary decision from “How did I play?” to “How do I run this team?”
 - The web app remains offline-first and installable as a PWA; no gameplay path should require a network request.
+
+- Accepted review amendment: Ember Orange owns primary CTAs, selected navigation, and next-decision signals in both Player and Manager modes; teal remains Manager context and secondary information.
+- Accepted review amendment: the start screen uses file identifiers and consequence-oriented evidence cues so mode selection reads as a tactical board, not a generic onboarding form.
+- Accepted review amendment: production image failures resolve to CSS marks, initials, or silhouette fallbacks, keeping the RIMLINE motif visible when storage assets are unavailable.
+- Real-data requirement retained: RIMLINE continues to use real NBA teams and players as requested by the product brief; the reviewer’s suggestion to make the league fictional is intentionally not applied because it conflicts with that requirement.

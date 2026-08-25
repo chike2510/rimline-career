@@ -63,41 +63,15 @@ export type DepthState = {
 };
 
 export const defaultDepthState: DepthState = {
-  energy: 78, trust: 61, chemistry: 72, fatigue: 24, reputation: 51,
-  difficulty: "Standard", largeType: false, colorBlind: false, reducedMotion: false, locale: "EN",
-  shotProfile: { rim: 54, catchShoot: 38, pullUp: 31, clutchNet: 4.8, deflections: 1.7, last10: 10 },
-  injury: { status: "Healthy", diagnosis: "No current designation", weeks: 0, rehab: 100 },
-  relationships: { teammate: 72, agent: 64, rival: 41, mentor: 58 },
-  contract: { aav: 16.2, years: 3, guaranteed: true, incentives: ["Starter minutes", "Playoff appearance"], endorsementValue: 48 },
-  transactions: { capSpace: 42, trades: 0, pending: ["Veteran-for-prospect framework"] },
-  rookieClass: [
-    { name: "Cameron Ellis", school: "Duke", position: "SG", overall: 78, potential: 91, confidence: 74 },
-    { name: "Malik Foster", school: "UConn", position: "C", overall: 76, potential: 88, confidence: 68 },
-    { name: "Andre Bell", school: "Kansas", position: "PG", overall: 74, potential: 86, confidence: 62 },
-  ],
-  staff: [
-    { name: "I. Chen", role: "Medical Director", level: 1, specialty: "Recovery" },
-    { name: "Mina Okafor", role: "Lead Scout", level: 2, specialty: "Draft fit" },
-    { name: "D. Price", role: "Performance Coach", level: 1, specialty: "Workload" },
-  ],
-  tactics: { system: "Balanced", pace: 71, defense: 78, rotationSize: 9 },
-  awards: [
-    { name: "All-League Team", status: "In the conversation", progress: 68 },
-    { name: "Most Valuable Player", status: "Long shot", progress: 31 },
-    { name: "Defensive Team", status: "Trending up", progress: 54 },
-  ],
-  challenges: [
-    { name: "Underdog Run", objective: "Win 10 games against higher-rated teams", progress: 4, reward: "+10 legacy", active: true, mode: "player" },
-    { name: "Clutch Ledger", objective: "Reach 12 clutch impact points", progress: 5, reward: "+6 clutch net", active: false, mode: "player" },
-    { name: "Cap Discipline", objective: "Finish a season under the cap", progress: 42, reward: "+1 staff level", active: false, mode: "manager" },
-    { name: "Late-Round Find", objective: "Develop a rookie by 8 overall", progress: 3, reward: "Scout network", active: false, mode: "manager" },
-    { name: "Identity First", objective: "Complete 6 system-aligned decisions", progress: 2, reward: "+8 franchise legacy", active: false, mode: "manager" },
-  ],
-  league: { expansionWatch: 38, rivalryHeat: 66, ruleChange: "Transition take foul review", timeline: ["Season 1: Celtics identity established", "Season 2: Expansion vote pending", "Season 3: Rivalry heat rising"] },
-  history: ["Career file opened", "First Rotation Minutes"],
-  lastAction: "No decision logged yet.",
+  energy: 100, trust: 0, chemistry: 0, fatigue: 0, reputation: 0, difficulty: "Standard", largeType: false, colorBlind: false, reducedMotion: false, locale: "EN",
+  shotProfile: { rim: 0, catchShoot: 0, pullUp: 0, clutchNet: 0, deflections: 0, last10: 0 }, injury: { status: "Healthy", diagnosis: "No current designation", weeks: 0, rehab: 100 }, relationships: { teammate: 0, agent: 0, rival: 0, mentor: 0 }, contract: { aav: 0, years: 0, guaranteed: false, incentives: [], endorsementValue: 0 }, transactions: { capSpace: 0, trades: 0, pending: [] }, rookieClass: [], staff: [], tactics: { system: "Balanced", pace: 0, defense: 0, rotationSize: 0 }, awards: [], challenges: [
+    { name: "Underdog Run", objective: "Win 10 games against higher-rated teams", progress: 0, reward: "+10 legacy", active: false, mode: "player" },
+    { name: "Clutch Ledger", objective: "Reach 12 clutch impact points", progress: 0, reward: "+6 clutch net", active: false, mode: "player" },
+    { name: "Cap Discipline", objective: "Finish a season under the cap", progress: 0, reward: "+1 staff level", active: false, mode: "manager" },
+    { name: "Late-Round Find", objective: "Develop a rookie by 8 overall", progress: 0, reward: "Scout network", active: false, mode: "manager" },
+    { name: "Identity First", objective: "Complete 6 system-aligned decisions", progress: 0, reward: "+8 franchise legacy", active: false, mode: "manager" },
+  ], league: { expansionWatch: 0, rivalryHeat: 0, ruleChange: "No league note yet", timeline: [] }, history: [], lastAction: "No decision logged yet",
 };
-
 const clamp = (value: number, min = 0, max = 99) => Math.max(min, Math.min(max, value));
 
 export function normalizeDepthState(value: unknown): DepthState {
@@ -116,7 +90,7 @@ export function normalizeDepthState(value: unknown): DepthState {
     rookieClass: Array.isArray(candidate.rookieClass) ? candidate.rookieClass : defaultDepthState.rookieClass,
     staff: Array.isArray(candidate.staff) ? candidate.staff : defaultDepthState.staff,
     awards: Array.isArray(candidate.awards) ? candidate.awards : defaultDepthState.awards,
-    challenges: defaultDepthState.challenges.map((base) => ({ ...base, ...(incomingChallenges.find((item) => item && typeof item === "object" && "name" in item && item.name === base.name) || {}) })),
+    challenges: incomingChallenges.length ? incomingChallenges.filter((item) => item && typeof item === "object").map((item) => ({ ...(item as DepthState["challenges"][number]) })) : defaultDepthState.challenges,
     history: Array.isArray(candidate.history) ? candidate.history : defaultDepthState.history,
   };
 }
