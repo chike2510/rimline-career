@@ -2245,3 +2245,11 @@
 - [ ] Add draft lottery odds, draw results, draft order, draft board, selections, and draft history.
 - [ ] Integrate playoff, trade, and draft routes into separate Player and Manager navigation.
 - [ ] Verify offline persistence, determinism, accessibility, mobile layouts, type-check, build, and final checkpoint.
+
+## Integrated Career-Loop Release
+
+- [ ] Persist playoff state and CPU trade inbox state through named saves and import/export.
+- [ ] Connect playoff completion to season summary, awards, offseason progression, and next-season reset.
+- [ ] Add Manager draft selection, drafted-player signing, roster insertion, and draft history.
+- [ ] Integrate postseason and draft controls into separate Player and Manager screens.
+- [ ] Verify persistence, determinism, accessibility, mobile layout, type-check, production build, and checkpoint.

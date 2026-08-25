@@ -35,6 +35,9 @@ export type CareerSave = {
   gemWallet?: number;
   seasonRecap?: Record<string, unknown>;
   expansionState?: Record<string, unknown>;
+  tradeInbox?: Record<string, unknown> | null;
+  draftHistory?: Record<string, unknown>[];
+  signedRookies?: Record<string, unknown>[];
 };
 
 function canUseIndexedDb() {
