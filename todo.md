@@ -2269,3 +2269,11 @@
 - [ ] Review uncommitted files and checkpoint changes before committing.
 - [ ] Push any missing latest changes to the remote main branch.
 - [ ] Verify remote commit head and working-tree synchronization.
+
+## Vercel Production Serving Fix
+
+- [ ] Inspect Vercel project configuration and deployment build/output settings.
+- [ ] Stop production from serving bundled server source as the homepage.
+- [ ] Configure the React SPA output and history fallback correctly for Vercel.
+- [ ] Verify local production-shaped serving and the deployed URL.
+- [ ] Commit and push the deployment fix to GitHub.
