@@ -39,3 +39,12 @@ The reference-inspired mobile hierarchy remains intact: compact branded header, 
 - `pnpm check` passes.
 - `pnpm build` passes with the existing large-chunk advisory.
 - Mobile screenshots captured successfully for Player and Manager Expansion routes; concurrent query captures can retain the existing saved Player career, so direct route behavior remains the reliable mode-switch check.
+
+## Differentiated Navigation Release Verification
+
+- `pnpm check` passed after the mode-hydration patch.
+- `pnpm build` passed; Vite emitted the existing non-blocking large-chunk advisory.
+- Player navigation uses an orange on-court treatment with `PLAYER FILE`, `ON COURT`, and personal destinations such as Training, Life, Stats, Skills, Circle, Deal, Legacy, Files, Challenges, and Command.
+- Manager navigation uses a teal front-office treatment with `CONTROL ROOM`, `FRONT OFFICE`, and operational destinations such as Office, Roster, League, Staff, Scout, Tactics, Moves, Legacy, Files, Challenges, Command, and Desk.
+- A direct Manager deep link rendered the correct Front Office shell in a single browser session. Concurrent screenshot captures share browser storage and can race between URLs; treat those captures as visual-only, not route-state authority.
+- Explicit URL mode is preserved during IndexedDB/local fallback hydration.

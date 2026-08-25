@@ -2253,3 +2253,12 @@
 - [ ] Add Manager draft selection, drafted-player signing, roster insertion, and draft history.
 - [ ] Integrate postseason and draft controls into separate Player and Manager screens.
 - [ ] Verify persistence, determinism, accessibility, mobile layout, type-check, production build, and checkpoint.
+
+## Differentiated Navigation and Career-Loop Release
+
+- [ ] Connect playoff completion to the visible season recap and offseason transition.
+- [ ] Add draft selection, rookie signing, roster insertion, and Manager draft history.
+- [ ] Generate CPU trade proposals automatically at deadline weeks and persist accept/decline decisions.
+- [ ] Make Player and Manager nav bars distinct in labels, ordering, accent treatment, and contextual headers.
+- [ ] Verify deep links, persistence, responsive layouts, accessibility, type-check, production build, and offline behavior.
+- [ ] Save the differentiated-navigation release checkpoint.
