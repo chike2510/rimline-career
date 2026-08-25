@@ -2262,3 +2262,10 @@
 - [ ] Make Player and Manager nav bars distinct in labels, ordering, accent treatment, and contextual headers.
 - [ ] Verify deep links, persistence, responsive layouts, accessibility, type-check, production build, and offline behavior.
 - [ ] Save the differentiated-navigation release checkpoint.
+
+## GitHub Synchronization Audit
+
+- [ ] Compare local RIMLINE branch with the configured private GitHub remote.
+- [ ] Review uncommitted files and checkpoint changes before committing.
+- [ ] Push any missing latest changes to the remote main branch.
+- [ ] Verify remote commit head and working-tree synchronization.
