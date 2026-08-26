@@ -1,5 +1,12 @@
 # RIMLINE Flow Revision Checklist
 
+## Player profiles and rookie development
+- [ ] Add player profile drill-down with season stats and a separate attributes tab.
+- [ ] Make League team rosters tappable and route each player into the profile screen.
+- [ ] Lower new-player starting attributes and make weekly training the main attribute-growth path.
+- [ ] Verify mobile navigation, persistence, build, and GitHub synchronization.
+
+
 ## RIMLINE NBA data and tabbed box score
 - [x] Expand the real NBA team and player data used by schedules, opponents, standings, and box scores.
 - [x] Replace the post-game stacked team tables with a Home/Away tab switch that exposes each team’s player stats on mobile.

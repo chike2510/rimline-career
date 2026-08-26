@@ -292,3 +292,31 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 .choice-signal { display: flex; justify-content: space-between; gap: 8px; padding-top: 10px; border-top: 1px dashed rgba(255, 255, 255, 0.16); color: #8794a8; font: 700 8px/1.35 "DM Mono", monospace; letter-spacing: 0.7px; }
 .player-choice .choice-signal span:first-child { color: var(--orange); } .manager-choice .choice-signal span:first-child { color: var(--teal); } .manager-choice .choice-cta { color: var(--orange); }
 @media (max-width: 520px) { .choice-signal { font-size: 7px; gap: 5px; } }
+
+/* RIMLINE Tactical Courtbook — profile drill-down layer: orange owns the next move; dense dossier rows stay thumb-friendly on mobile. */
+.profile-back { display: inline-flex; align-items: center; gap: 6px; border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.25rem 0; cursor: pointer; }
+.profile-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin: 1.1rem 0 0; border-bottom: 1px solid rgba(255,255,255,0.12); }
+.profile-tabs button { border: 0; border-bottom: 2px solid transparent; background: transparent; color: var(--muted); padding: 0.85rem 0.55rem; font: inherit; font-size: 0.7rem; letter-spacing: 0.1em; font-weight: 700; cursor: pointer; }
+.profile-tabs button.active { border-bottom-color: var(--ember); color: var(--ember); }
+.attribute-board { display: grid; gap: 0.8rem; margin-top: 1.2rem; padding: 1rem; border: 1px solid rgba(255,255,255,0.12); background: rgba(15,26,46,0.72); }
+.attribute-row { display: grid; grid-template-columns: 86px minmax(0, 1fr) 28px; align-items: center; gap: 0.7rem; color: var(--muted); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; }
+.attribute-row .progress { height: 7px; margin: 0; }
+.attribute-row strong { color: var(--paper); text-align: right; font-variant-numeric: tabular-nums; }
+.profile-footnote { margin-top: 0.85rem; color: var(--muted); font-size: 0.72rem; line-height: 1.45; }
+.league-roster-drawer { margin-top: 1rem; padding: 1rem; border-top: 2px solid var(--ember); background: rgba(19,30,50,0.84); }
+.league-roster-drawer > p { margin: 0.35rem 0 0.8rem; color: var(--muted); font-size: 0.76rem; line-height: 1.4; }
+.roster-player-link { display: grid; grid-template-columns: 32px minmax(0, 1fr) auto 16px; align-items: center; gap: 0.55rem; width: 100%; border: 0; border-top: 1px solid rgba(255,255,255,0.09); background: transparent; color: var(--paper); padding: 0.75rem 0.1rem; text-align: left; cursor: pointer; }
+.roster-player-link > span { color: var(--ember); font-size: 0.66rem; font-weight: 800; }
+.roster-player-link strong { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 0.78rem; }
+.roster-player-link em { color: var(--muted); font-size: 0.66rem; font-style: normal; }
+.standing-row { width: 100%; border: 0; border-bottom: 1px solid rgba(255,255,255,0.08); background: transparent; color: inherit; text-align: left; cursor: pointer; }
+.standing-row:hover, .roster-player-link:hover, .leader-row:hover { background: rgba(244,119,36,0.08); }
+.leader-row { width: 100%; border: 0; border-bottom: 1px solid rgba(255,255,255,0.08); background: transparent; color: inherit; text-align: left; cursor: pointer; }
+.boxscore-player-link { border: 0; background: transparent; color: inherit; padding: 0; font: inherit; font-weight: inherit; text-align: left; cursor: pointer; }
+.boxscore-player-link:hover { color: var(--ember); text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 640px) {
+  .profile-strip { align-items: start; }
+  .attribute-row { grid-template-columns: 74px minmax(0, 1fr) 26px; gap: 0.5rem; font-size: 0.64rem; }
+  .roster-player-link { grid-template-columns: 28px minmax(0, 1fr) auto 14px; }
+  .roster-player-link strong { font-size: 0.72rem; }
+}
