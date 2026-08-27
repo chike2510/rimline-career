@@ -1,9 +1,9 @@
 # RIMLINE Flow Revision Checklist
 
 ## Reliable public logo release
-- [ ] Replace the fragile external logo image with a built-in RIMLINE mark.
-- [ ] Verify the mark renders at the public Vercel domain on a mobile viewport.
-- [ ] Build, checkpoint, and synchronize the logo fix to GitHub main.
+- [x] Replace the fragile external logo image with a built-in RIMLINE mark.
+- [x] Verify the mark renders at the public Vercel domain on a mobile viewport.
+- [x] Build, checkpoint, and synchronize the logo fix to GitHub main.
 
 ## Rookie presentation correction
 - [ ] Replace inflated creation-screen scout grades with honest rookie-level starting values.
