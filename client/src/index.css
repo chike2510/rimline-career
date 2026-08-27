@@ -278,6 +278,13 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 
 /* RIMLINE Tactical Courtbook — corrective UX pass. */
 .brand-lockup:has(.brand-logo[hidden])::before { content: "R"; display: grid; place-items: center; width: 27px; height: 27px; margin-right: 8px; border: 1px solid currentColor; color: var(--orange); font: 900 16px/1 monospace; transform: rotate(-8deg); }
+
+/* Tactical Courtbook brand rule: the header mark is CSS-native so it never depends on remote storage. */
+.brand-lockup { position: relative; }
+.brand-lockup .brand-logo { display: none !important; }
+.brand-lockup::before,
+.brand-lockup:has(.brand-logo[hidden])::before { content: "R"; display: grid; place-items: center; width: 27px; height: 27px; margin-right: 8px; border: 1px solid var(--orange); border-radius: 4px; background: linear-gradient(135deg, rgba(255, 106, 0, 0.22), rgba(255, 106, 0, 0.03)); color: var(--paper); font: 900 16px/1 monospace; letter-spacing: -1px; transform: rotate(-8deg); box-shadow: inset 0 0 0 2px rgba(255, 106, 0, 0.08); }
+.brand-lockup::after { content: ""; position: absolute; left: 19px; top: 3px; width: 7px; height: 7px; border-top: 2px solid var(--orange); border-right: 2px solid var(--orange); transform: rotate(24deg); pointer-events: none; }
 .player-silhouette:has(.portrait-image[hidden])::before { content: ""; position: absolute; right: 22px; bottom: 20px; width: 92px; height: 168px; border-radius: 48% 48% 18% 18%; background: linear-gradient(145deg, rgba(255, 167, 84, 0.92), rgba(90, 45, 30, 0.8)); clip-path: polygon(38% 0, 64% 0, 78% 14%, 69% 26%, 89% 44%, 100% 100%, 0 100%, 12% 44%, 31% 26%, 22% 14%); opacity: 0.72; }
 .crest:has(img[hidden])::before { content: "•"; color: currentColor; font: 900 30px/1 monospace; }
 .crest.comet:has(img[hidden])::before { content: "B"; font-size: 18px; }
