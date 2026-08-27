@@ -1,5 +1,35 @@
 # RIMLINE Flow Revision Checklist
 
+## Rookie presentation correction
+- [ ] Replace inflated creation-screen scout grades with honest rookie-level starting values.
+- [ ] Keep archetype differences visible without implying saved production stats.
+- [ ] Verify new-career persistence and weekly attribute growth, then checkpoint and sync to GitHub.
+
+
+## Public Vercel stale-deployment diagnosis
+- [ ] Compare `rimline-mu.vercel.app` with the latest deployment URL and response bundle.
+- [ ] Verify the public alias points to the intended production deployment.
+- [ ] Correct the deployment/linkage or source mismatch if the public domain is stale.
+- [ ] Re-test the exact public URL from a clean browser session.
+
+
+## Live deployment refresh check
+- [ ] Confirm the latest GitHub commit is the Vercel production deployment serving `rimline-mu.vercel.app`.
+- [ ] Check deployed bundle markers for player profiles, League drill-downs, and training-driven rookie growth.
+
+
+## Latest checkpoint GitHub synchronization
+- [ ] Push checkpoint `8d929260` to GitHub `main`.
+- [ ] Verify GitHub `main` contains the player-profile release.
+- [ ] Confirm the linked Vercel project is configured to deploy from `main`.
+
+
+## Live Vercel deployment audit
+- [ ] Inspect the deployed start, Player, Manager, League, profile, box-score, and training flows.
+- [ ] Compare live behavior and visible UI against the latest checkpoint and GitHub main.
+- [ ] Report verified features, missing deployment changes, and any deployment action still required.
+
+
 ## Player profiles and rookie development
 - [ ] Add player profile drill-down with season stats and a separate attributes tab.
 - [ ] Make League team rosters tappable and route each player into the profile screen.
