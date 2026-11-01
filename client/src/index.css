@@ -275,7 +275,32 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
   .player-nav button, .manager-nav button { min-width: 56px; }
 }
 
-/* RIMLINE Tactical Courtbook — corrective UX pass. */
+/* RIMLINE hardwood refresh: unify player, manager, and creation lanes on the approved court identity. */
+:root { --navy:#100d0b; --panel:#191411; --panel-2:#241d17; --court:#2a2019; --line:#403229; --muted:#a29385; --orange:#ee8a3b; --gold:#c6a77d; --red:#c7463d; --teal:#c6a77d; --cream:#f4ebdd; --paper:#f4ebdd; --display:'Barlow Condensed','Arial Narrow',sans-serif; --body:'IBM Plex Sans',system-ui,sans-serif; font-family:var(--body); color:var(--cream); background:var(--navy); }
+body,button,input,select,textarea { font-family:var(--body); }
+h1,h2,h3,h4,.brand-lockup,.overall strong,.metric strong,.record strong,.rating strong,.rank strong,.rank b,.num,.seed,.section-label,.eyebrow,.resource,.mode-switch button,.segmented button,.bottom-nav button,.primary-cta,.outline-cta,.top-actions,.team-line,.table-head,.stat-row,.manager-actions strong,.focus-grid button,.offline-badge,.back-button { font-family:var(--display); font-stretch:condensed; font-weight:700; font-variant-numeric:tabular-nums lining-nums; }
+.app-shell { background:radial-gradient(ellipse at 72% -8%,#35251b 0,transparent 40%),linear-gradient(180deg,#17110d 0%,#100d0b 42%,#0d0a08 100%); color:var(--cream); }
+.manager-badge { color:var(--gold); border-color:var(--line); }
+.player-nav,.manager-nav { position:fixed; z-index:30; bottom:0; left:50%; transform:translateX(-50%); width:min(100%,560px); min-height:76px; padding:8px 10px calc(8px + env(safe-area-inset-bottom)); display:grid; grid-template-columns:1fr 1fr 1.18fr 1fr 1fr; align-items:center; gap:3px; background:linear-gradient(180deg,#2a2019f2,#191411f7); border:0; border-top:1px solid #ee8a3b70; border-radius:0; box-shadow:0 -12px 30px #08050388; backdrop-filter:blur(18px); clip-path:polygon(0 10%,9% 10%,12% 0,88% 0,91% 10%,100% 10%,100% 100%,0 100%); }
+.player-nav .nav-mode-stamp,.manager-nav .nav-mode-stamp { display:none; }
+.player-nav button,.manager-nav button { min-width:0; height:48px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; color:#a29385; background:transparent; border:0; border-radius:0; font:700 11px/1 var(--display); letter-spacing:.09em; position:relative; }
+.player-nav button svg,.manager-nav button svg { width:23px; height:23px; fill:none; stroke:currentColor; stroke-width:1.55; stroke-linecap:square; stroke-linejoin:round; overflow:visible; }
+.player-nav button svg text,.manager-nav button svg text { fill:currentColor; stroke:none; font:800 7px var(--display); }
+.player-nav button.active,.manager-nav button.active.manager { color:var(--cream); background:#ee8a3b24; box-shadow:inset 0 -2px 0 var(--orange); }
+.player-nav .advance-button,.manager-nav .advance-button { z-index:2; width:58px; height:58px; margin-top:-18px; justify-self:center; border:0; border-radius:50%; color:#24160e; background:linear-gradient(145deg,#f4a04d,#ee8a3b 58%,#c7463d); box-shadow:0 5px 0 #71351f,0 0 0 4px #191411,0 0 22px #ee8a3b44; font-size:9px; letter-spacing:.12em; }
+.player-nav .advance-button svg,.manager-nav .advance-button svg { width:29px; height:29px; stroke:#3b2113; }
+.app-shell { padding-bottom:100px; }
+.creation-panel { background:linear-gradient(145deg,#241d17,#191411); border-color:var(--line); }
+.archetype-option { color:var(--cream); border-color:var(--line); background:linear-gradient(145deg,#241d17,#191411); }
+.archetype-option.active { border-color:var(--orange); background:linear-gradient(145deg,#35251b,#211813); box-shadow:inset 0 0 0 1px #ee8a3b38; }
+.archetype-option small,.archetype-option em,.archetype-heading span,.rookie-grade-note { color:var(--muted); }
+.stat-compare-row i { background:#403229; }
+.stat-compare-row i b { background:linear-gradient(90deg,var(--red),var(--orange)); }
+.choice-pills button.active { color:var(--cream); border-color:var(--orange); background:#ee8a3b22; }
+.primary-cta,.manager-cta { background:linear-gradient(110deg,var(--orange),#c7463d); color:#1b100a; border-color:var(--orange); }
+@media(max-width:520px){.player-nav,.manager-nav{min-height:72px;padding-left:10px;padding-right:10px}.player-nav button,.manager-nav button{min-width:0;font-size:10px}}
+@media(min-width:700px){.player-nav,.manager-nav{bottom:12px;width:min(100% - 32px,560px);border:1px solid #ee8a3b70;border-radius:12px}.app-shell{padding-bottom:112px}}
+
 .brand-lockup:has(.brand-logo[hidden])::before { content: "R"; display: grid; place-items: center; width: 27px; height: 27px; margin-right: 8px; border: 1px solid currentColor; color: var(--orange); font: 900 16px/1 monospace; transform: rotate(-8deg); }
 
 /* Tactical Courtbook brand rule: the header mark is CSS-native so it never depends on remote storage. */
@@ -329,6 +354,31 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 
 
 /* Approved RIMLINE system: warm courtside charcoal, hardwood cards, scoreboard hierarchy. */
+/* RIMLINE hardwood refresh: unify player, manager, and creation lanes on approved court identity. */
+:root { --display:'Barlow Condensed','Arial Narrow',sans-serif; --body:'IBM Plex Sans',system-ui,sans-serif; --navy:#100d0b; --panel:#191411; --panel-2:#241d17; --court:#2a2019; --line:#403229; --muted:#a29385; --orange:#ee8a3b; --gold:#c6a77d; --red:#c7463d; --teal:#c6a77d; --cream:#f4ebdd; --paper:#f4ebdd; font-family:var(--body); color:var(--cream); background:var(--navy); }
+body,button,input,select,textarea { font-family:var(--body); }
+h1,h2,h3,h4,.brand-lockup,.overall strong,.metric strong,.record strong,.rating strong,.rank strong,.rank b,.num,.seed,.section-label,.eyebrow,.resource,.mode-switch button,.segmented button,.bottom-nav button,.primary-cta,.outline-cta,.top-actions,.team-line,.table-head,.stat-row,.manager-actions strong,.focus-grid button,.offline-badge,.back-button { font-family:var(--display); font-stretch:condensed; font-weight:700; font-variant-numeric:tabular-nums lining-nums; }
+.app-shell { color:var(--cream); background:radial-gradient(ellipse at 72% -8%,#35251b 0,transparent 40%),linear-gradient(180deg,#17110d 0%,#100d0b 42%,#0d0a08 100%); }
+.manager-badge { color:var(--gold); border-color:var(--line); }
+.player-nav,.manager-nav { position:fixed; z-index:30; bottom:0; left:50%; right:auto; transform:translateX(-50%); width:min(100%,560px); height:76px; padding:8px 10px calc(8px + env(safe-area-inset-bottom)); grid-template-columns:1fr 1fr 1.18fr 1fr 1fr; gap:3px; background:linear-gradient(180deg,#2a2019f2,#191411f7); border:0; border-top:1px solid #ee8a3b70; border-radius:0; box-shadow:0 -12px 30px #08050388; backdrop-filter:blur(18px); clip-path:polygon(0 10%,9% 10%,12% 0,88% 0,91% 10%,100% 10%,100% 100%,0 100%); }
+.player-nav .nav-mode-stamp,.manager-nav .nav-mode-stamp { display:none; }
+.player-nav button,.manager-nav button { min-width:0; height:48px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; color:#a29385; background:transparent; border:0; border-radius:0; font:700 11px/1 var(--display); letter-spacing:.09em; position:relative; }
+.player-nav button svg,.manager-nav button svg { width:23px; height:23px; fill:none; stroke:currentColor; stroke-width:1.55; stroke-linecap:square; stroke-linejoin:round; overflow:visible; }
+.player-nav button svg text,.manager-nav button svg text { fill:currentColor; stroke:none; font:800 7px var(--display); }
+.player-nav button.active,.manager-nav button.active.manager { color:var(--cream); background:#ee8a3b24; box-shadow:inset 0 -2px 0 var(--orange); }
+.player-nav .advance-button,.manager-nav .advance-button { grid-column:3!important; z-index:2; width:58px; height:58px; margin-top:-18px; justify-self:center; border:0; border-radius:50%; color:#24160e; background:linear-gradient(145deg,#f4a04d,#ee8a3b 58%,#c7463d); box-shadow:0 5px 0 #71351f,0 0 0 4px #191411,0 0 22px #ee8a3b44; font-size:9px; letter-spacing:.12em; }
+.player-nav .advance-button svg,.manager-nav .advance-button svg { width:29px; height:29px; stroke:#3b2113; }
+.app-shell { padding-bottom:100px; }
+.creation-panel { background:linear-gradient(145deg,#241d17,#191411); border-color:var(--line); }
+.archetype-option { color:var(--cream); border-color:var(--line); background:linear-gradient(145deg,#241d17,#191411); }
+.archetype-option.active { border-color:var(--orange); background:linear-gradient(145deg,#35251b,#211813); box-shadow:inset 0 0 0 1px #ee8a3b38; }
+.archetype-option small,.archetype-option em,.archetype-heading span,.rookie-grade-note { color:var(--muted); }
+.stat-compare-row i { background:#403229; }
+.stat-compare-row i b { background:linear-gradient(90deg,var(--red),var(--orange)); }
+.choice-pills button.active { color:var(--cream); border-color:var(--orange); background:#ee8a3b22; }
+.primary-cta,.manager-cta { background:linear-gradient(110deg,var(--orange),#c7463d); color:#1b100a; border-color:var(--orange); }
+@media(max-width:520px){.player-nav,.manager-nav{min-height:72px;padding-left:10px;padding-right:10px}.player-nav button,.manager-nav button{min-width:0;font-size:10px}}
+@media(min-width:700px){.player-nav,.manager-nav{bottom:12px;width:min(100% - 32px,560px);border:1px solid #ee8a3b70;border-radius:12px}.app-shell{padding-bottom:112px}}
 :root { color-scheme: dark; }
 .app-shell,.onboarding-shell { color:var(--cream); background:radial-gradient(ellipse at 72% -8%,#35251b 0,transparent 40%),linear-gradient(180deg,#17110d 0%,#100d0b 42%,#0d0a08 100%); }
 .topbar { border-color:#f4ebdd12; background:rgba(16,13,11,.92); }
@@ -362,36 +412,36 @@ button:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
 @media (min-width:700px) { .player-nav,.manager-nav { position:fixed; bottom:12px; width:min(100% - 32px,560px); border:1px solid #ee8a3b70; border-radius:12px; } .app-shell { padding-bottom:102px; } }
 @media (max-width:390px) { .player-nav,.manager-nav { padding-left:10px; padding-right:10px; } .player-nav button,.manager-nav button { min-width:0; font-size:9px; } }
 
+/* Approved courtside palette and typography applied consistently to every career surface. */
+:root { --teal:var(--gold); --purple:var(--red); --ember:var(--orange); --foreground:var(--cream); --paper:var(--cream); --background:var(--navy); --card:var(--panel); --display:"Barlow Condensed","Arial Narrow",sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; }
+body,button,input,select,textarea { font-family:var(--body); }
+h1,h2,h3,h4,.brand-lockup,.overall strong,.metric strong,.record strong,.rating strong,.rank strong,.rank b,.num,.seed,.section-label,.eyebrow,.resource,.mode-switch button,.segmented button,.bottom-nav button,.primary-cta,.outline-cta,.top-actions,.team-line,.table-head,.stat-row,.manager-actions strong,.focus-grid button,.offline-badge,.back-button,.manager-hero h2,.manager-record strong { font-family:var(--display); font-variant-numeric:tabular-nums lining-nums; }
+.section-label,.eyebrow,.resource,.mode-switch button,.segmented button,.bottom-nav button,.primary-cta,.outline-cta,.top-actions,.team-line,.table-head,.stat-row,.manager-actions strong,.focus-grid button,.offline-badge,.back-button,.event-kicker,.choice-signal,.archetype-option small,.archetype-readout small,.radar-title,.stat-compare-row>span,.stat-compare-row>strong,.save-slot-create input,.save-slot-row button { font-family:var(--display)!important; }
+:where(.manager-hero,.manager-focus,.manager-actions,.manager-callout,.manager-grid,.manager-metric,.manager-panel,.manager-choice,.manager-feature) { --teal:var(--orange); }
+.mode-switch,.segmented,.training-meter,.training-row,.data-panel,.social-panel,.standings,.stats-table,.manager-focus,.manager-actions,.manager-callout,.manager-metric,.save-slot-create input,.attribute-board,.league-roster-drawer { border-color:var(--line); background-color:var(--panel); }
+.mode-switch button.active.manager,.manager-choice,.manager-choice .choice-cta,.manager-choice svg,.manager-badge,.manager-record strong,.manager-feature .feature-row span,.manager-feature .feature-row svg { color:var(--orange); }
+.manager-choice,.career-choice.manager-choice,.manager-hero { border-color:#c7463d55; background:linear-gradient(145deg,#302019,#191411); }
+.manager-focus,.manager-actions,.manager-callout,.manager-hero,.manager-metric { border-color:var(--line); }
+.manager-nav { border-top-color:#c7463d; }
+.manager-nav button.active.manager { color:var(--cream); border-color:var(--orange); background:rgba(238,138,59,.14); }
+.hero-card,.data-panel,.next-game,.manager-hero,.manager-focus,.manager-actions,.manager-callout,.training-meter,.training-row,.social-panel,.standings,.stats-table,.event-option,.feature-row,.bracket-card,.boxscore-card,.career-choice,.creation-panel,.archetype-option { color:var(--cream); }
+:where(.hero-card,.data-panel,.next-game,.manager-hero,.manager-focus,.manager-actions,.manager-callout,.training-meter,.training-row,.social-panel,.standings,.stats-table,.event-option,.feature-row,.bracket-card,.boxscore-card,.career-choice,.creation-panel,.archetype-option) { border-color:var(--line); }
+.archetype-option.teal.active,.archetype-option.gold.active,.archetype-option.purple.active,.radar-shape.teal,.radar-shape.gold,.radar-shape.purple,.radar-dot.teal,.radar-dot.gold,.radar-dot.purple { border-color:var(--orange); color:var(--orange); stroke:var(--orange); fill:rgba(238,138,59,.2); }
+.manager .event-option:hover,.manager-feature .feature-row:hover,.manager-feature .feature-row.selected { border-color:var(--red); }
+.advanced-rail-label { letter-spacing:.1em; }
+@media (prefers-reduced-motion:no-preference) { .player-nav button,.manager-nav button,.archetype-option,.feature-row,.event-option { transition:color .18s ease,border-color .18s ease,background .18s ease,transform .18s ease; } .player-nav .advance-button:hover,.manager-nav .advance-button:hover { transform:translateY(-2px); } }
 
-/* Final approved courtside system: editorial display, readable body, hardwood surfaces. */
-:root { --navy:#100d0b; --panel:#191411; --panel-2:#241d17; --court:#2a2019; --line:#403229; --muted:#a29385; --orange:#ee8a3b; --red:#c7463d; --gold:#c6a77d; --teal:#c6a77d; --cream:#f4ebdd; --paper:#f4ebdd; --display:"Barlow Condensed", "Arial Narrow", sans-serif; --body:"IBM Plex Sans", system-ui, sans-serif; --sans:var(--body); }
-html, body, #root, button, input, select, textarea { font-family:var(--body); }
-body { color:var(--cream); background:var(--navy); }
-h1,h2,h3,h4,.brand-lockup,.page-heading h1,.player-copy h1,.overall strong,.metric strong,.record strong,.rating strong,.rank strong,.rank b,.num,.seed,.manager-hero h2,.manager-record strong,.profile-rating strong,.profile-strip h2,.standing-row>strong,.stat-row,.team-cell strong,.archetype-option strong,.bottom-nav button,.primary-cta,.outline-cta,.manager-actions strong,.focus-grid button { font-family:var(--display); font-stretch:condensed; font-variant-numeric:tabular-nums lining-nums; }
-.section-label,.eyebrow,.resource,.mode-switch button,.segmented button,.top-actions,.team-line,.table-head,.offline-badge,.rookie-grade-note { font-family:var(--body); }
-.app-shell { color:var(--cream); background:radial-gradient(ellipse at 72% -8%,#35251b 0,transparent 40%),linear-gradient(180deg,#17110d 0%,#100d0b 42%,#0d0a08 100%); }
-.topbar { border-color:#f4ebdd18; background:rgba(16,13,11,.94); }
-.mode-switch,.segmented,.training-meter,.training-row,.shop-row,.profile-strip,.league-roster-drawer,.leader-board,.manager-focus,.manager-actions,.manager-callout,.stats-table,.standings,.social-panel,.data-panel,.next-game,.manager-hero,.manager-panel,.manager-grid>*,.feature-row,.data-card,.metric-card,.boxscore-card,.table-card,.creation-panel,.archetype-option,.career-choice,.event-option,.bracket-card { border-color:var(--line); background-color:var(--panel); color:var(--cream); }
-.mode-switch,.segmented { background:#191411; }
-.mode-switch button,.segmented button { color:#a29385; }
-.mode-switch button.active,.segmented button.active { color:var(--orange); background:#ee8a3b1c; }
-.manager-hero { background:linear-gradient(135deg,#302116,#191411); }
-.manager-focus,.manager-actions,.manager-callout,.training-meter,.training-row,.shop-row,.profile-strip,.leader-board,.league-roster-drawer,.stats-table,.standings,.social-panel,.data-panel { background:linear-gradient(145deg,#241d17,#191411); }
-.manager-record strong,.manager-nav .manager-mark,.manager-nav button.active.manager { color:var(--orange); }
-.manager-nav button.active.manager { background:#ee8a3b1c; box-shadow:inset 0 -2px 0 var(--orange); }
-.standing-row,.leader-row,.roster-player-link,.stat-row,.manager-actions button,.training-row,.feature-row { border-color:#403229; color:var(--cream); }
-.standing-row:hover,.leader-row:hover,.roster-player-link:hover,.manager-actions button:hover { background:#302116; }
-.primary-cta,.manager-cta { color:#24160e; background:linear-gradient(145deg,#f4a04d,#ee8a3b 60%,#c7463d); }
-.player-nav,.manager-nav { height:76px; padding:8px 10px calc(8px + env(safe-area-inset-bottom)); grid-template-columns:1fr 1fr 1.18fr 1fr 1fr; gap:3px; left:50%; right:auto; width:min(100%,760px); transform:translateX(-50%); border:0; border-top:1px solid #ee8a3b70; border-radius:0; background:linear-gradient(180deg,rgba(42,32,25,.97),rgba(25,20,17,.99)); box-shadow:0 -12px 30px #08050388; backdrop-filter:blur(18px); clip-path:polygon(0 10%,9% 10%,12% 0,88% 0,91% 10%,100% 10%,100% 100%,0 100%); }
-.bottom-nav .nav-mode-stamp { display:none; }
-.player-nav button,.manager-nav button { position:relative; min-width:0; height:48px; gap:2px; border:0; border-radius:0; background:transparent; color:var(--muted); font:700 10px var(--display); letter-spacing:.09em; }
-.player-nav button:nth-of-type(1),.manager-nav button:nth-of-type(1) { grid-column:1; }
-.player-nav button:nth-of-type(2),.manager-nav button:nth-of-type(2) { grid-column:2; }
-.player-nav button:nth-of-type(3),.manager-nav button:nth-of-type(3) { grid-column:4; }
-.player-nav button:nth-of-type(4),.manager-nav button:nth-of-type(4) { grid-column:5; }
-.player-nav button.active,.manager-nav button.active.manager { color:var(--cream); background:#ee8a3b24; box-shadow:inset 0 -2px 0 var(--orange); }
-.player-nav button.advance-button,.manager-nav button.advance-button { z-index:2; grid-column:3; width:58px; height:58px; margin-top:-18px; justify-self:center; border-radius:50%; color:#24160e; background:linear-gradient(145deg,#f4a04d,#ee8a3b 58%,#c7463d); box-shadow:0 5px 0 #71351f,0 0 0 4px #191411,0 0 22px #ee8a3b44; font-size:9px; }
-.player-nav button.advance-button svg,.manager-nav button.advance-button svg { width:28px; height:28px; stroke:#3b2113; }
-.player-nav button.advance-button span,.manager-nav button.advance-button span { margin-top:-1px; }
-@media (min-width:700px) { .player-nav,.manager-nav { position:fixed; bottom:12px; width:min(100% - 32px,560px); border:1px solid #ee8a3b70; border-radius:12px; } .app-shell { padding-bottom:102px; } }
-@media (max-width:390px) { .player-nav,.manager-nav { padding-left:10px; padding-right:10px; } .player-nav button,.manager-nav button { min-width:0; font-size:9px; } }
+/* Retire inherited cool/neon accents from earlier screens, including archetype and alerts. */
+:root { --teal:var(--gold); --purple:var(--red); --ember:var(--orange); --foreground:var(--cream); --paper:var(--cream); --background:var(--navy); --card:var(--panel); --red:#c7463d; }
+.archetype-option.teal.active,.archetype-option.gold.active,.archetype-option.purple.active,.radar-shape.teal,.radar-shape.gold,.radar-shape.purple,.radar-dot.teal,.radar-dot.gold,.radar-dot.purple { border-color:var(--orange); color:var(--orange); stroke:var(--orange); fill:rgba(238,138,59,.2); }
+.manager-nav,.manager-choice,.manager-hero,.manager-focus,.manager-actions,.manager-callout,.manager-metric,.manager-feature,.manager-creation { --teal:var(--red); }
+.manager-nav button.active.manager,.manager-choice .choice-cta,.manager-choice svg,.manager-badge,.manager-record strong,.manager-feature .feature-row span,.manager-feature .feature-row svg { color:var(--red); }
+.manager-nav { border-top-color:var(--red); }
+.manager-nav button.active.manager { color:var(--cream); border-color:var(--red); background:rgba(199,70,61,.14); box-shadow:inset 0 -2px 0 var(--red); }
+.manager-choice,.career-choice.manager-choice,.manager-hero { border-color:#c7463d55; background:linear-gradient(145deg,#302019,#191411); }
+:where(.app-shell,.onboarding-shell) :where(.data-panel,.next-game,.social-panel,.standings,.stats-table,.manager-focus,.manager-actions,.manager-callout,.manager-metric,.training-meter,.training-row,.segmented,.mode-switch,.feature-row,.event-option,.bracket-card,.career-choice,.archetype-option,.creation-panel,.save-slot-create input,.attribute-board,.league-roster-drawer) { border-color:var(--line); }
+.feature-row,.event-option,.training-row { background:linear-gradient(145deg,var(--panel-2),var(--panel)); color:var(--cream); }
+.event-shell.manager .event-kicker,.offseason-shell.manager .eyebrow,.playoff-shell.manager .bracket-card small { color:var(--red); }
+.manager-feature .feature-row:hover,.manager-feature .feature-row.selected,.manager .event-option:hover { border-color:var(--red); }
+
+.creation-overall { display:inline-flex; margin-left:8px; padding:4px 7px; border:1px solid var(--orange); border-radius:3px; color:var(--orange); font:700 11px/1 var(--display); letter-spacing:.08em; vertical-align:2px; }
